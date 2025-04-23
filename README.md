@@ -13,7 +13,7 @@ If you are developing a production application, we recommend using TypeScript an
 
 # How It Works
 
-https://github.com/afreedsyed12/unit-converter-app
+[https://github.com/afreedsyed12/unit-converter-app](https://roadmap.sh/projects/unit-converter)
 Select the category of measurement (Length, Weight, Temperature).
 
 Enter the value you want to convert.
